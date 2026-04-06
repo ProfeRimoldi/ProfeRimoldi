@@ -1,5 +1,9 @@
+# Damián Rimoldi
 ## Hi there 👋
 
+**Profesor de Electrónica**
+
+Estudiante de Ingeniería en Electrónica en UTN.
 <!--
 **ProfeRimoldi/ProfeRimoldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

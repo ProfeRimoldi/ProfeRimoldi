@@ -49,6 +49,28 @@ Actualmente trabajo formando estudiantes en nivel secundario técnico, integrand
 
 ## 🧠 Proyectos destacados
 
+### 🚀 CanSat
+Sistema capaz de detectar:
+- Temperatura
+- Aceleraciones en 3 ejes
+- Posición en tiempo real
+
+Incluye:
+- Sensado de altura (BMP280)
+- Lógica de seguridad redundante
+- Configuración desde módulo en tierra
+
+### 🚀 Disparador para cohetes
+Sistema capaz de detectar:
+- Armado del sistema
+- Comunicación entre etapas
+- Secuencia de seguridad de ignición
+
+Incluye:
+- Lógica de seguridad redundante
+- Configuración desde módulo en zona segura
+- Ignición de cargas explosivas a distancia (LoRa)
+- 
 ### 🚀 Altímetro para cohetes
 Sistema capaz de detectar:
 - Ignición

@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mí
 
-Soy estudioante de ingeniería en electrónica y docente en escuelas técnicas de Argentina, especializado en:
+Soy estudiante de ingeniería en electrónica y docente en escuelas técnicas de Argentina, especializado en:
 
 - Electrónica aplicada
 - Sistemas embebidos (ESP32, STM32)
